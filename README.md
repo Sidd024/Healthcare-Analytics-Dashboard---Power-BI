@@ -1,12 +1,11 @@
-🏥 Healthcare Analytics Dashboard | Power BI
-
-Built an interactive dashboard to analyze:
-✔ Specialty Wise Appointment Trend
-✔ State Wise Paitents Distribution
-✔ Billing Amount by Service Type
-✔ Status Wise Appointment Trend
-✔ Gender Wise Patient Distribution
-✔ Ward Wise Bed Distribution
+🏥 Healthcare Analytics Dashboard | Power BI <br/>
+Built an interactive dashboard to analyze: <br/>
+✔ Specialty Wise Appointment Trend <br/>
+✔ State Wise Paitents Distribution <br/>
+✔ Billing Amount by Service Type <br/>
+✔ Status Wise Appointment Trend <br/>
+✔ Gender Wise Patient Distribution <br/>
+✔ Ward Wise Bed Distribution <br/>
 
 🔧 Tools: Power BI | DAX 
 📊 Domain: Healthcare Analytics
