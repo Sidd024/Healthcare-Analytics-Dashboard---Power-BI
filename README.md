@@ -7,8 +7,8 @@ Built an interactive dashboard to analyze: <br/>
 ✔ Gender Wise Patient Distribution <br/>
 ✔ Ward Wise Bed Distribution <br/>
 
-🔧 Tools: Power BI | DAX 
-📊 Domain: Healthcare Analytics
+🔧 Tools: Power BI | DAX <br/>
+📊 Domain: Healthcare Analytics<br/>
 
-Actively transitioning into a Data Analyst role.
+Actively transitioning into a Data Analyst role.<br/>
 Feedback welcome 🙌
